@@ -20,7 +20,7 @@ This package is a small set of functions that allows to convert, calculate
  
  Please feel free to add new languages to the package in a PR
  
- 
+
 ## Ressources
 
 You can find other languages at this [website](https://scholarworks.gvsu.edu/orpc/vol2/iss2/9/)
